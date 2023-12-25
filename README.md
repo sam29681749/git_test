@@ -1,3 +1,7 @@
 # git_test
-My first GitHub repo!
-Hello Odin!
+
+This is my first odin repo.
+
+## Purpose
+
+The purpose of this file is to test the functionality of git.
